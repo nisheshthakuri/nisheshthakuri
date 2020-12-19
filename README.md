@@ -6,6 +6,12 @@
 <a href="https://github.com/nisheshthakuri">
   <img align="left" alt="Nishesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.facebook.com/nishesh26/">
+  <img align="left" alt="Nishesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/nish.thakuri/">
+  <img align="left" alt="Nishesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br/>
 <br/>
@@ -13,8 +19,8 @@
 
  🔭 I’m currently working as IT intern, Deerwalk College.<br>
  🌱 I’m currently learning something cool.<br>
- 📫 How to reach me : <a href="nisheshthakuri.np@gmail.com"> nisheshthakuri.np@gmail.com </a>
-
+ 📫 How to reach me : <a href="nisheshthakuri.np@gmail.com"> nisheshthakuri.np@gmail.com </a><br>
+ View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdfView"> Resume.</a>
 
 
 <a href="https://github.com/nisheshthakuri">

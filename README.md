@@ -12,8 +12,8 @@
 
 
  🔭 I’m currently working as IT intern, Deerwalk College.<br>
- 🌱 I’m currently learning something cool.
-
+ 🌱 I’m currently learning something cool.<br>
+ 📫 How to reach me : <a href="nisheshthakuri.np@gmail.com"> nisheshthakuri.np@gmail.com </a>
 
 
 

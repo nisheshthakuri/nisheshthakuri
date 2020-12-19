@@ -20,7 +20,7 @@
  🔭 I’m currently working as IT intern, Deerwalk College.<br>
  🌱 I’m currently learning something cool.<br>
  📫 How to reach me : <a href="nisheshthakuri.np@gmail.com"> nisheshthakuri.np@gmail.com </a><br>
- View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdfView"> Resume.</a>
+ View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdf"> Resume.</a>
 
 
 <a href="https://github.com/nisheshthakuri">

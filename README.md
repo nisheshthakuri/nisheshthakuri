@@ -1,27 +1,18 @@
 ## Hi there, my name is  [Nishesh !](https://nisheshthakuri.com.np) 👋
 
-<a href="https://linkedin.com/in/nisheshthakuri">
-  <img align="left" alt="Nishesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/nisheshthakuri">
-  <img align="left" alt="Nishesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/nishesh26/">
-  <img align="left" alt="Nishesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/nish.thakuri/">
-  <img align="left" alt="Nishesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br/>
-<br/>
-
-
  🔭 I’m currently working as IT intern, Deerwalk College.<br>
  🌱 I’m currently learning something cool.<br>
- 📫 How to reach me : <a href="nisheshthakuri.np@gmail.com"> nisheshthakuri.np@gmail.com </a><br>
+
  View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdf"> Resume.</a>
 
+### 🤝🏻 Connect with Me
+
+<p align="left">
+  <a href="https://nisheshthakuri.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-nisheshthakuri.com.np-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/nisheshthakuri/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-square&logo=linkedin"></a>
+   <a href="https://www.facebook.com/nishesh26/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-blue?style=flat-square&logo=facebook"></a>
+    <a href="https://www.instagram.com/nish.thakuri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-blue?style=flat-square&logo=instagram"</a>
+</p>
 
 <a href="https://github.com/nisheshthakuri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshthakuri&theme=light&hide_langs_below=1" />

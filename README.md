@@ -11,7 +11,7 @@
   <a href="https://nisheshthakuri.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-nisheshthakuri.com.np-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/nisheshthakuri/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-square&logo=linkedin"></a>
    <a href="https://www.facebook.com/nishesh26/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-blue?style=flat-square&logo=facebook"></a>
-    <a href="https://www.instagram.com/nish.thakuri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-blue?style=flat-square&logo=instagram"</a>
+    <a href="https://www.instagram.com/nish_thakuri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-blue?style=flat-square&logo=instagram"</a>
 </p>
 
 <a href="https://github.com/nisheshthakuri">

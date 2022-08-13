@@ -1,6 +1,5 @@
 ## Hi there, my name is  [Nishesh !](https://nisheshthakuri.com.np) 👋
 
- 🔭 I’m currently working as IT intern, Deerwalk College.<br>
  🌱 I’m currently learning something cool.<br>
 
  View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdf"> Resume.</a>

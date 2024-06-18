@@ -1,28 +1,10 @@
-## Hi there, my name is  [Nishesh !](https://nisheshthakuri.com.np) 👋
+<h1 align="center">Hi 👋, I'm Nishesh</h1>
+<h3 align="center">Currently working as DevOps Engineer</h3>
 
- 🌱 I’m currently learning something cool.<br>
-
- View my <a href="https://github.com/nisheshthakuri/nisheshthakuri/blob/main/Resume.pdf"> Resume.</a>
-
-### 🤝🏻 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://nisheshthakuri.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-nisheshthakuri.com.np-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/nisheshthakuri/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-square&logo=linkedin"></a>
-   <a href="https://www.facebook.com/nishesh26/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-blue?style=flat-square&logo=facebook"></a>
-    <a href="https://www.instagram.com/nish_thakuri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-blue?style=flat-square&logo=instagram"</a>
+<a href="https://linkedin.com/in/nisheshthakuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisheshthakuri" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/nisheshthakuri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisheshthakuri&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/nisheshthakuri">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nisheshthakuri&show_icons=true&theme=radical_height=27" alt="Nishesh's github stats"/>
-</a>
-
-<div align="center">
-
-
-
-</div>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
